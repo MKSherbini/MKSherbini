@@ -66,8 +66,8 @@ I'm curious with an open mind. I'd like to learn something new every day.
 <p align="center">
 <a href="https://linkedin.com/in/MKSherbini"><img src="https://img.shields.io/badge/-%20MKSherbini-05122A?style=flat&logo=Linkedin"/></a>
 <a href="https://facebook.com/MKSherbini"><img src="https://img.shields.io/badge/-%20MKSherbini-05122A?style=flat&logo=facebook"/></a>
-<a href="MKSherbini@gmail.com"><img src="https://img.shields.io/badge/-%20MKSherbini-05122A?style=flat&logo=gmail"/></a>
-<a href="https://instagram.com/MKSherbini"><img src="https://img.shields.io/badge/-%20MKSherbini-05122A?style=flat&logo=twitter"/></a>
+<a href="mailto:MKSherbini@gmail.com"><img src="https://img.shields.io/badge/-%20MKSherbini-05122A?style=flat&logo=gmail"/></a>
+<a href="https://twitter.com/MKSherbini"><img src="https://img.shields.io/badge/-%20MKSherbini-05122A?style=flat&logo=twitter"/></a>
 <a href="https://instagram.com/MKSherbini"><img src="https://img.shields.io/badge/-%20MKSherbini-05122A?style=flat&logo=Instagram "/></a>
 <p>
 
